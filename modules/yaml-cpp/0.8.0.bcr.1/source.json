@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/ahans/yaml-cpp/archive/cccada5743c2e78739be56979db71b11f5682f3b.tar.gz",
+    "integrity": "sha256-IaWqlKGy5pgWl6myHunFP1SM9aZ9qGtbHAvdUVn+DYw=",
+    "strip_prefix": "yaml-cpp-cccada5743c2e78739be56979db71b11f5682f3b",
+    "overlay": {
+        "MODULE.bazel": "sha256-+VviODl2qU0e2fsNY9oPdklg2udSWV1ywyTAQsd9N6U="
+    }
+}
